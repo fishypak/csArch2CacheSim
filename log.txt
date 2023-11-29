@@ -1,0 +1,11 @@
+Test type: None
+Sequence: 0  |  Address: 123131  |  Set: 3  | Block: 0  |  Status: Miss
+
+
+  1. memory access count: 1
+  2. cache hit count: 0
+  3. cache miss count: 1
+  4. cache hit rate: 0.0
+  5. cache miss rate: 1.0
+  6. average memory access time: 11.0
+  7. total memory access time: 20481.0
